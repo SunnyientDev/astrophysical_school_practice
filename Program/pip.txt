@@ -1,0 +1,6 @@
+path %path%;C:\Python33
+
+path %path%;C:\Python33\Scripts
+
+python -m pip list
+python -m pip search 'smbd'
